@@ -18,7 +18,7 @@ namespace Beecrowd_Bonus_Salary_1009
             Incentive = (Sales * 0.15);
             Total   = Salary + Incentive;
             
-            Console.WriteLine("TOTAl = R$ {0}", Total.ToString("0.00"));
+            Console.WriteLine("TOTAL = R$ {0}", Total.ToString("0.00"));
             Console.ReadKey();
         }
     }
